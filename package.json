@@ -15,5 +15,8 @@
     "firebase-functions-test": "^3.0.0",
     "nuxt": "^3.2.3",
     "sass": "^1.58.3"
+  },
+  "dependencies": {
+    "@line/liff": "^2.21.4"
   }
 }
