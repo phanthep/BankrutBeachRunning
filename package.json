@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "bootstrap": "^5.2.3",
+    "firebase-admin": "^11.5.0",
+    "firebase-functions": "^4.2.1",
+    "firebase-functions-test": "^3.0.0",
+    "nuxt": "^3.2.3",
+    "sass": "^1.58.3"
+  }
+}
